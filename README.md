@@ -62,7 +62,7 @@ Stop Time	2023-02-19 15:37
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
+| SecurityEvent            | 8798
 | Syslog                   | 25
 | SecurityAlert            | 0
 | SecurityIncident         | 0
